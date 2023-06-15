@@ -5,7 +5,7 @@ To calculate them this application will ask you to enter your birth date, your g
 Then select the gender "Compute BMI and BMR" your BMI and BMR will appear below.
 
 
-[https://youtu.be/kZoRkxylUPc]
+[https://youtu.be/A_T7nSFplB8]
 
 # Development Environment
 
